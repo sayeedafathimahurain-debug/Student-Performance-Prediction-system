@@ -58,7 +58,7 @@ Displays the predicted student performance.
 
 👩‍💻 Author
 
-*Sayeeda Fathima Hurain
+Sayeeda Fathima Hurain
 
 📄 License
 
